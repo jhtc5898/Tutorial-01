@@ -1,0 +1,25 @@
+/* h2 {
+    text-align: center;
+    background-color: aquamarine;
+}
+h4{
+    text-align: center;
+    background-color:azure !important; 
+} */
+
+
+* {
+    margin: 0;  /* el margen */
+    background-color:azure ; 
+    font-weight: normal;
+    border: 1px solid black;
+    padding: 20px;  /* el espacio entre el texto y el body   */
+}
+
+
+article span {
+    color: blueviolet;
+
+}
+
+
